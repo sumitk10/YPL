@@ -1,0 +1,55 @@
+.card-body p{
+    color: black;
+}
+/* .col-sm-4{ 
+    background-color: #f0f0f0;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1);
+} */
+
+.ypl{
+    background-color: orange;
+    color: black;
+    height: fit-content;
+    width: fit-content;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-top-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    font-style: italic;
+    margin-bottom: 0;
+}
+.row .image{
+    margin-left: 2px;
+    padding-left: 20px;
+}
+.row .vs{
+    padding-left: 0px;
+}
+/* .row .tname1{
+    width: 200px;
+    text-align: center; 
+   
+    align-items: center;
+    justify-content: center;
+    padding-left: 5px;
+} */
+/* .row .tname2{
+    width: 200px;
+    text-align: center;
+    
+    align-items: center;
+    justify-content: center;
+    margin-left: 10px;
+    padding-left: 55px;
+} */
+.image .TName{
+    align-items: center;
+    justify-content: center;
+    /* padding-left: 1px; */
+}
+
+.image img{
+    object-fit: cover;
+    border-radius: 50%;
+    border: 2px solid orange;
+}
